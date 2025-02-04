@@ -1,0 +1,1 @@
+This repository demonstrates a common React Native bug and its solution. The bug occurs when attempting to access props or state of a component before it's mounted. The solution involves using the `useEffect` hook with cleanup function to prevent this. 
