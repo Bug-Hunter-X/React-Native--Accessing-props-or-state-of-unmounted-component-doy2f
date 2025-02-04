@@ -1,0 +1,1 @@
+This error occurs when you use a component inside another component that renders before the first one is fully mounted, causing a null pointer exception.  This often happens when accessing props or state of a component before it has received them.
